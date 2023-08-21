@@ -8,8 +8,8 @@ Task 1: Sales PRediction using Python
 
 Task 2: Iris Flower Classification
 
-  I have used the model of Logistic Regression in classifying the three provided species of the Iris flower with an accuracy of about 0.96%
+  I have used the model of Logistic Regression in classifying the three provided species of the Iris flower with an accuracy of about 0.96
   
 Task 3: Titanic Survival Prediction 
 
-  I have used the model of K- Nearest Neighbours for this problem and has achieved  an accuracy of about 0.96%
+  For this problem, I have tried three models: KNN, SVM, and Naive Bayes with the respective accuracies of 0.90, 0.99, and 0.99 
